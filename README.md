@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Evildethow/ang-rxjs-gol.png?label=ready&title=Ready)](https://waffle.io/Evildethow/ang-rxjs-gol)
 # ang-rxjs-gol
 
 Game of Life using Angular 1 and RxJS 2
