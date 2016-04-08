@@ -1,14 +1,10 @@
-[![Stories in Ready](https://badge.waffle.io/Evildethow/ang-rxjs-gol.png?label=ready&title=Ready)](https://waffle.io/Evildethow/ang-rxjs-gol)
+[![Build Status](https://travis-ci.org/Evildethow/ang-rxjs-gol.svg?branch=master)](https://travis-ci.org/Evildethow/ang-rxjs-gol)[![Stories in Ready](https://badge.waffle.io/Evildethow/ang-rxjs-gol.png?label=ready&title=Ready)](https://waffle.io/Evildethow/ang-rxjs-gol)
 # ang-rxjs-gol
 
 Game of Life using Angular 1 and RxJS 2
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.15.1.
-
-## Installation
-
-Run `npm install -g grunt-cli bower grunt-auto-install`.
 
 ## Build and development
 
