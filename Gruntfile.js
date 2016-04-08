@@ -199,6 +199,7 @@ module.exports = function (grunt) {
     },
 
     // Automatically install npm and bower dependencies
+    // jscs:disable
     auto_install: {
       local: {},
       subdir: {
