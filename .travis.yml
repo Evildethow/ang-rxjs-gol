@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+  - "0.10"
+before_install:
+  - npm install -g grunt-cli
+  - npm install -g bower
+  - npm install -g grunt-auto-install
+  - npm install -g generator-karma
+  - npm install -g generator-angular
+  - npm install -g grunt-karma
+install:
+  - npm install
+  - bower install
+script: grunt
